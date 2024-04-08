@@ -46,3 +46,5 @@ Sebelum memulai analisis, penting untuk melakukan pemahaman yang mendalam terhad
 * Dapat membuat forcasting dalam membuat keputusan perusahaan.
 * Meningkatkan daya tarik customer.
 * Mampu membuat strategy pemasaran yang tepat.
+
+* https://public.tableau.com/app/profile/ahnaf.indrastata/viz/CapstoneProject2AirbnbBangkok/Top10NeighbourhoodsbyNumberofReviews
